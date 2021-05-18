@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/KiraTsuna/kira.github.io/project/2021/05/17/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hexo 初始</title>
+    <url>/KiraTsuna/kira.github.io/project/2021/05/17/test/</url>
+    <content><![CDATA[<h3 id="开始hexo第一篇章"><a href="#开始hexo第一篇章" class="headerlink" title="开始hexo第一篇章"></a>开始hexo第一篇章</h3><h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><ol>
+<li><a href="#jump1">hexo初识</a></li>
+<li><a href="#jump2">Markdown语法</a></li>
+<li><a href="#jump3">掘金markdown灵动蓝主题</a></li>
+<li><a href="#jump4">Markdown结合图标</a></li>
+</ol>
+<ul>
+<li><h4 id="hexo初识"><a href="#hexo初识" class="headerlink" title="hexo初识"></a><span id="jump1">hexo初识</span></h4><p>  在逛 <strong>daidailin</strong> 的<a href="https://juejin.cn/post/6844903800654790663">掘金文章</a>的时候注意到 <code>hexo</code> 这个新名词的，然后就搜索了一下，感觉也可以自己搞一个的感觉，就种下了种子。</p>
+</li>
+</ul>
+<figure class="highlight plaintext"><figcaption><span>运行</span></figcaption><table><tr><td class="code"><pre><span class="line">hexo clean是清除缓存，也可以不加</span><br><span class="line">hexo generate生成静态文章，可以缩写为hexo g</span><br><span class="line">hexo deploy部署文章，可以缩写为hexo d</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><h4 id="Markdown语法-学习连接"><a href="#Markdown语法-学习连接" class="headerlink" title="Markdown语法 学习连接"></a><span id="jump2">Markdown语法</span> <a href="https://www.jianshu.com/p/8c1b2b39deb0">学习连接</a></h4></li>
+</ul>
+<!-- <table><tr><td bgcolor=yellowgreen>背景色yellow</td></tr></table> -->
+
+<ul>
+<li><h4 id="掘金markdown灵动蓝主题-github"><a href="#掘金markdown灵动蓝主题-github" class="headerlink" title="掘金markdown灵动蓝主题 github"></a><span id="jump3">掘金markdown灵动蓝主题</span> <a href="https://github.com/cumt-robin/juejin-markdown-theme-smart-blue">github</a></h4><ul>
+<li>觉得有个网格的背景好看 $\Rightarrow$ 首先如何切换成掘金的css样式 $\Rightarrow$ 自定义css样式 (找不到渲染地址，失败了嗐)<blockquote>
+<p><a href="https://www.jianshu.com/p/d63887d0c706">箭头汇总</a></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li><h4 id="Markdown结合图标-链接"><a href="#Markdown结合图标-链接" class="headerlink" title="Markdown结合图标 链接"></a><span id="jump4">Markdown结合图标</span> <a href="https://butterfly.js.org/posts/4073eda/#iconfont">链接</a></h4></li>
+</ul>
+<h1 id="20210518"><a href="#20210518" class="headerlink" title="20210518"></a>20210518</h1><p>今天看到了关于butterfly的自定义教程<br><a href="https://akilar.top/posts/ebf20e02/">akilar</a><br><a href="https://zfe.space/post/65396.html">小冰博客</a><br><a href="http://www.c-hasel.cn/2019/12/01/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%BA%8C/#Post-Front-matter">corey’s Blog</a> Markdown 头属性</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title</span><br><span class="line">date:</span><br><span class="line">tags:</span><br><span class="line">categories:</span><br><span class="line">keywords:</span><br><span class="line">description:</span><br><span class="line">top_img: (除非特定，可以不写)</span><br><span class="line">comments: 是否显示评论(除非设置false,可以不写)</span><br><span class="line">cover: 缩略图</span><br><span class="line">toc: 是否显示toc(除非特定文章设置，可以写)</span><br><span class="line">toc_number: 是否显示toc数字(除非特定文章设置，可以不写)</span><br><span class="line">copyright: 是否显示版权(除非特定文章设置，可以不写)</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+</search>
