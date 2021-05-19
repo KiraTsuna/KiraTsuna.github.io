@@ -53,6 +53,8 @@
 </ul>
 <h1 id="20210518"><a href="#20210518" class="headerlink" title="20210518"></a>20210518</h1><p>今天看到了关于butterfly的自定义教程<br><a href="https://akilar.top/posts/ebf20e02/">akilar</a><br><a href="https://zfe.space/post/65396.html">小冰博客</a><br><a href="http://www.c-hasel.cn/2019/12/01/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%BA%8C/#Post-Front-matter">corey’s Blog</a> Markdown 头属性</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title</span><br><span class="line">date:</span><br><span class="line">tags:</span><br><span class="line">categories:</span><br><span class="line">keywords:</span><br><span class="line">description:</span><br><span class="line">top_img: (除非特定，可以不写)</span><br><span class="line">comments: 是否显示评论(除非设置false,可以不写)</span><br><span class="line">cover: 缩略图</span><br><span class="line">toc: 是否显示toc(除非特定文章设置，可以写)</span><br><span class="line">toc_number: 是否显示toc数字(除非特定文章设置，可以不写)</span><br><span class="line">copyright: 是否显示版权(除非特定文章设置，可以不写)</span><br></pre></td></tr></table></figure>
+
+<p>TODO :将自己的博客暴露在百度等搜索引擎中</p>
 ]]></content>
       <categories>
         <category>前端</category>
