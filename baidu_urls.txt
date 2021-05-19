@@ -1,2 +1,2 @@
-https://kiratsuna.github.io/title.html
-https://kiratsuna.github.io/title.html
+https://kiratsuna.github.io/test.html
+https://kiratsuna.github.io/hello-world.html
